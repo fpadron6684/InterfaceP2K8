@@ -1,0 +1,48 @@
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe.config
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\bin\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\bin\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbprojResolveAssemblyReference.cache
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz_Merkant.Resources.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz_Merkant.ProjectInstaller.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz_Merkant.InterfazMerkant.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbproj.GenerateResource.Cache
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75\Interfaz Merkant\obj\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe.config
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\bin\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\bin\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbprojResolveAssemblyReference.cache
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz_Merkant.Resources.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz_Merkant.ProjectInstaller.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz_Merkant.InterfazMerkant.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Nuevo\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbproj.GenerateResource.Cache
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe.config
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\bin\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\bin\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbprojResolveAssemblyReference.cache
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz_Merkant.Resources.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz_Merkant.ProjectInstaller.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz_Merkant.InterfazMerkant.resources
+C:\Users\Francis Padron\Source\Repos\interfacesprofit75_Dislac\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbproj.GenerateResource.Cache
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe.config
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\bin\Debug\Interfaz Merkant.exe
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\bin\Debug\Interfaz Merkant.pdb
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\bin\Debug\Interfaz Merkant.xml
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbprojResolveAssemblyReference.cache
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz_Merkant.Resources.resources
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz_Merkant.ProjectInstaller.resources
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz_Merkant.InterfazMerkant.resources
+C:\Users\Francis Padron\Source\Repos\InterfacesProfit2K8\Interfaz Merkant\obj\Debug\Interfaz Merkant.vbproj.GenerateResource.Cache

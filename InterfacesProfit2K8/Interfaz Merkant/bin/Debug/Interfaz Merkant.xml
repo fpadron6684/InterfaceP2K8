@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Interfaz Merkant
+</name>
+</assembly>
+<members>
+<member name="T:Interfaz_Merkant.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Interfaz_Merkant.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Interfaz_Merkant.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Interfaz_Merkant.InterfazMerkant">
+ <summary>
+ Servicio que tomara su informacion de configuracion desde un archivo txt alojado en la carpeta raiz de la maquina que lo tenga instalado
+ cargara y extraera los datos para el uso de el sfera service, para el funcionamiento de Merkant.
+ Realizado por Sergio Mendoza Rivero
+ </summary>
+</member>
+<member name="M:Interfaz_Merkant.InterfazMerkant.exportacionNivel1">
+ <summary>
+ 
+ </summary>
+</member>
+<member name="M:Interfaz_Merkant.InterfazMerkant.cobranza(System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Carga el cobro en la BD, toma como parametros las tres rutas de los 3 archivos involucrados en el proceso de cobranza
+ Cobranza, CobranzaDetalleDocumento y CobranzaDetallePago
+ SM
+ </summary>
+ <param name="fileDir"> ruta archivo cobranza (encabezado)</param>
+ <param name="fileDir1"> ruta archivo detalle documentos de la cobranza</param>
+ <param name="fileDir2"> ruta archivo detalle pago cobranza</param>
+ <param name="cmdSQL"> CommandSQL </param>
+ <param name="conn"> Conexion SQL</param>
+ <param name="tran"> Transaccion SQL</param>
+</member>
+<member name="M:Interfaz_Merkant.InterfazMerkant.GeneraRetencion(System.Data.DataTable,Interfaz_Merkant.connect,System.Data.SqlClient.SqlTransaction,System.Int32)">
+ <summary>
+ Crea el Documento ANJM correspondiente a la retencion enviada por el movil
+ dicho documento luego sera llamado por el detalle de documento de la cobranza
+ </summary>
+ <param name="tblRet">Tabla contentiva de los documentos tipo Retencion</param>
+ <param name="conn"> Conexion SQL</param>
+ <param name="tran"> Transaccion SQL</param>
+ <param name="cob"> Numero cobranza implicita</param>
+</member>
+<member name="M:Interfaz_Merkant.InterfazMerkant.cobranzadetalle(System.Data.DataTable,System.Data.SqlClient.SqlCommand,Interfaz_Merkant.connect,System.Data.SqlClient.SqlTransaction,System.Int32,System.Int32)">
+ <summary>
+ Inserta renglon por renglon los documentos de cobro asociados al encabezado de cobro procesado en SUB cobranza
+ </summary>
+ <param name="tabla"> Datatable de los documentos a cargar</param>
+ <param name="cmdSQL"> Command SQL</param>
+ <param name="conn"> Conexion SQL</param>
+ <param name="tran"> Transaccion SQL</param>
+</member>
+<member name="M:Interfaz_Merkant.InterfazMerkant.cobranzapago(System.Data.DataTable,System.Data.SqlClient.SqlCommand,Interfaz_Merkant.connect,System.Data.SqlClient.SqlTransaction,System.Int32,System.String)">
+ <summary>
+ Cargar detalle del pago de la cobranza que esta siendo procesada
+ </summary>
+ <param name="tabla"> tabla filtrada </param>
+ <param name="cmdSQL"> commandSql </param>
+ <param name="conn"> Conexion SQL</param>
+ <param name="tran"> Transaccion SQL</param>
+ <param name="cob"> Numero de cobro procesado</param>
+</member>
+</members>
+</doc>
